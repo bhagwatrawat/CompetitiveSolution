@@ -1,0 +1,1 @@
+{"name":"Local: 26_FindSumOfSubArrayIsZero","url":"d:\\c++\\LoveBabbarSheet\\26_FindSumOfSubArrayIsZero.cpp","tests":[{"id":1610721120602,"input":"2\n10\n-10","output":"Yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\LoveBabbarSheet\\26_FindSumOfSubArrayIsZero.cpp","group":"local","local":true}
