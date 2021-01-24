@@ -1,0 +1,1 @@
+{"name":"Local: 32_ArraySubsetOfAnotherArray","url":"d:\\c++\\LoveBabbarSheet\\32_ArraySubsetOfAnotherArray.cpp","tests":[{"id":1611476315363,"input":"1\n3 5\n474 9 25\n285 848 529 95 48","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\LoveBabbarSheet\\32_ArraySubsetOfAnotherArray.cpp","group":"local","local":true}
