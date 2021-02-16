@@ -54,4 +54,4 @@ int main(){
     }
     int res=trappingWater(arr,n);
     cout<<res;
-}  
+}    
