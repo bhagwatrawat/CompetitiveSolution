@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\simpleQuestions"
+		},
+		{
+			"path": "..\\DynamicProgramming"
+		},
+		{
+			"path": "..\\Trees"
+		},
+		{
+			"path": "..\\Recursion"
+		},
+		{
+			"path": "..\\NumberTheory"
+		},
+		{
+			"path": "..\\CTCI"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}

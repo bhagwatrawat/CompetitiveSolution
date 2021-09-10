@@ -1,0 +1,1 @@
+{"name":"Local: findKthmaxAndMin","url":"d:\\c++\\LoveBabbarSheet\\findKthmaxAndMin.cpp","tests":[{"id":1614264917023,"input":"6 \n7 10 4 3 20 15\n3","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\LoveBabbarSheet\\findKthmaxAndMin.cpp","group":"local","local":true}

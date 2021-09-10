@@ -1,0 +1,1 @@
+{"name":"Local: 140_reverseList","url":"d:\\c++\\LoveBabbarSheet\\140_reverseList.cpp","tests":[{"id":1616072657976,"input":"4 2\n5 3 6 2","output":"3 5 2 6"},{"id":1616072683019,"input":"8 3\n1 2 5 6 4 3 1 2","output":"5 2 1 3 4 6 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\LoveBabbarSheet\\140_reverseList.cpp","group":"local","local":true}
